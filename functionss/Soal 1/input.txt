@@ -1,0 +1,7 @@
+1 2 10 7 5 22 3
+5
+Max
+Median
+Mean
+Varian
+Sulit

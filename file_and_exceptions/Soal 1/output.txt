@@ -1,0 +1,4 @@
+Jumlah apel dalam daftar belanja adalah sebanyak 2 buah
+Jumlah bawang dalam daftar belanja adalah sebanyak 4 buah
+Jumlah coklat dalam daftar belanja adalah sebanyak 1 buah
+Tidak ada dodol di dalam daftar belanja

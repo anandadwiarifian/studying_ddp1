@@ -1,0 +1,5 @@
+Nilai maksimum adalah 22.0
+Nilai median adalah 5.00
+Nilai mean adalah 7.14
+Nilai varian adalah 52.48
+Operasi Sulit tidak ada
